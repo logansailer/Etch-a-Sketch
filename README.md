@@ -1,5 +1,5 @@
-<h2>Restaurant Page</h2>
+<h2>Etch-a-Sketch</h2>
 
-Mockup homepage using JavaScript, HTML, and CSS, built to practice using Webpack.
+Etch-a-Skecth board built using JavaScript, HTML, and CSS.
 
 See it live [here](https://logansailer.github.io/Etch-a-Sketch/) 👈
